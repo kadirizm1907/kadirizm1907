@@ -10,6 +10,10 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=kadirizm1907&theme=tokyonight" alt="mystreak"/>
 ![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadirizm1907&theme=tokyonight&layout=compact)
 
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kadirizm1907&theme=dracula&column=7" alt="andermendoza" /></a> </p>
+
 - 👋 Hi, I’m @kadirizm1907
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
