@@ -6,8 +6,8 @@
 
 
 
-![AkuraDiary's github stats](https://github-readme-stats.vercel.app/api?username=kadirizm1907&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AkuraDiary&theme=tokyonight" alt="mystreak"/>
+![Kadir's github stats](https://github-readme-stats.vercel.app/api?username=kadirizm1907&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kadirizm1907&theme=tokyonight" alt="mystreak"/>
 ![AkuraDiary's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kadirizm1907&theme=tokyonight&layout=compact)
 
 - 👋 Hi, I’m @kadirizm1907
