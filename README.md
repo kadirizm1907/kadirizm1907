@@ -1,6 +1,14 @@
+
+
+
+
 <div align=center>
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
 </div>
+
+
+
+
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hey+World!!!;Kadir+is+coming...)](https://git.io/typing-svg)
 
