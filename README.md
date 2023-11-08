@@ -2,11 +2,22 @@
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
 </div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&size=18&pause=1000&vCenter=true&random=false&width=415&height=60&lines=Hi%2C+My+name+is+Kadir.+Welcome+to+my+world.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hey+World!!!;Kadir+is+coming...)](https://git.io/typing-svg)
+
+
+
+
 
 
 
 ![Kadir's github stats](https://github-readme-stats.vercel.app/api?username=kadirizm1907&show_icons=true&theme=tokyonight)
+
+
+
+
+
+
+
 
 
 
