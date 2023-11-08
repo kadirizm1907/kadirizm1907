@@ -7,21 +7,10 @@
 
 
 
-
-
-
 ![Kadir's github stats](https://github-readme-stats.vercel.app/api?username=kadirizm1907&show_icons=true&theme=tokyonight)
 
 
 
-
-
-
-
-
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=kadirizm1907&theme=tokyonight" alt="mystreak"/>
 
 
 
